@@ -1,4 +1,10 @@
 
+.client-review-w{
+    width: 360px;
+}
+.footer-height{
+    height: 250px;
+}
 
 @media only screen and (max-width: 576px) {
     .carousel-height{
